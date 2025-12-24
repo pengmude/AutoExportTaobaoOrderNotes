@@ -1,0 +1,2 @@
+# AutoExportTaobaoOrderNotes
+自动导出淘宝订单备注的脚本
